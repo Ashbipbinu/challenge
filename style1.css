@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.parent{
+    height:100vh;
+    border:20px solid grey;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+/* styling the button*/
+.child .btn { 
+    padding: 20px 20px; 
+    display: inline-block; 
+    letter-spacing: 2px; 
+    text-transform: uppercase; 
+    text-decoration: none; 
+    font-size: medium; 
+    overflow: hidden; 
+    letter-spacing: 2px;
+    text-align: center;
+    width:350px;
+} 
+
+/*creating animation effect*/
+.btn:hover { 
+    color: white;
+    background: #ff14d8; 
+    box-shadow: 0 0 50px #ff14d8; 
+    letter-spacing: 5px;
+    transition: 0.5s;
+    width:380px;
+} 

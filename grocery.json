@@ -1,0 +1,83 @@
+[
+       {
+          "slno":"1",
+          "dept":"Fruits",
+          "item":"Apple",
+          "qty":"1.5",
+          "unit":"kg",
+          "notes":"For apple juice"
+       },
+       {
+         "slno":"2",
+         "dept":"Fruits",
+         "item":"Orange",
+         "qty":"2.5",
+         "unit":"kg",
+         "notes":"For son"
+       },
+       {
+         "slno":"3",
+         "dept":"Bakery",
+         "item":"Milk",
+         "qty":"2",
+         "unit":"packet",
+         "notes":"For today"
+       },
+       {
+         "slno":"4",
+         "dept":"Bakery",
+         "item":"Laddu",
+         "qty":"5",
+         "unit":"pieces",
+         "notes":"For birthday party"
+       },
+       {
+         "slno":"5",
+         "dept":"Bakery",
+         "item":"Red velvet cake",
+         "qty":"1",
+         "unit":"kg",
+         "notes":"For birthday party"
+       },
+       {
+         "slno":"6",
+         "dept":"Vegetables",
+         "item":"Potato",
+         "qty":"500",
+         "unit":"gm",
+         "notes":"For french fries"
+       },
+       {
+         "slno":"7",
+         "dept":"Vegetables",
+         "item":"Onion",
+         "qty":"3",
+         "unit":"kg",
+         "notes":"Big one"
+       },
+       {
+         "slno":"8",
+         "dept":"Rice",
+         "item":"Biriyani Rice",
+         "qty":"2",
+         "unit":"packets",
+         "notes":"After birthday celebration"
+       },
+       {
+         "slno":"9",
+         "dept":"Fish & chicken",
+         "item":"Meat",
+         "qty":"2",
+         "unit":"kg",
+         "notes":"Chicken"
+       },
+       {
+         "slno":"10",
+         "dept":"Bakery",
+         "item":"Ice cream",
+         "qty":"5",
+         "unit":"pieces",
+         "notes":"Cone ice-cream"
+       }
+      
+]
